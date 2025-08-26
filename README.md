@@ -3,7 +3,7 @@
 
 # SoftEther Config Merger
 
-[English](README.md) | [فارسی](README-fa.md) | [Русский](README-rus.md) | [中文](README-cn.md)
+[فارسی](README-fa.md) | [Русский](README-rus.md) | [中文](README-cn.md)
 
 A simple graphical tool for merging two **SoftEtherVPN** configuration files.
 
